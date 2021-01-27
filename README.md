@@ -24,7 +24,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 ##  Desafio dia 01 - Menu animado <a name="id01"></a>
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day01.gif" width="800" height="400">
 
-[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia1)
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia01)
 
 ##### O que aprendi:
 - [Transition](https://www.w3schools.com/css/css3_transitions.asp "Transition")
