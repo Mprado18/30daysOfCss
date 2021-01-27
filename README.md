@@ -18,6 +18,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 ## 🔖Índice
 
 * [Dia 01 - Menu animado](#id01)
+* [Dia 02 - Escrita animada](#id02)
 
 ## :trophy: Resultados
 
@@ -30,5 +31,17 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Transition](https://www.w3schools.com/css/css3_transitions.asp "Transition")
 - [Transform](https://www.w3schools.com/cssref/css3_pr_transform.asp "Transform")
 - [::before](https://www.w3schools.com/cssref/sel_before.asp "::before")
+
+
+##  Desafio dia 02 - Escrita animada <a name="id02"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day02.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia02)
+
+##### O que aprendi:
+- [CSS Units](https://www.w3schools.com/cssref/css_units.asp "Units")
+- [Gradients](https://www.w3schools.com/css/css3_gradients.asp "Gradients")
+- [Animations](https://www.w3schools.com/css/css3_animations.asp "Animations")
+
 
 Se curtiu a ideia, participe também!
