@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'roboto-mono';
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+}
+
+h2{
+    position: relative;
+    margin: 20px 0 0;
+    font-size: 4rem;
+    font-weight: 600;
+    color: #ffff;
+    z-index: 1;
+    overflow: hidden;
+}
+
+h2::before{
+    content: '';
+    position: absolute;
+    left: 120%;
+    width: 120%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent 0%, #000 5%, #000 100%);
+    animation: animar 5.5s linear forwards infinite;
+    animation-delay: 1s;
+}
+
+@keyframes animar{
+    0%{
+        left: 110%;
+    } 
+    50%{
+        left: -20%;
+    }
+}
