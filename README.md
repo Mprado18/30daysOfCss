@@ -19,6 +19,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 
 * [Dia 01 - Menu animado](#id01)
 * [Dia 02 - Escrita animada](#id02)
+* [Dia 03 - Efeito Lighting](#id03)
 
 ## :trophy: Resultados
 
@@ -42,6 +43,16 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [CSS Units](https://www.w3schools.com/cssref/css_units.asp "Units")
 - [Gradients](https://www.w3schools.com/css/css3_gradients.asp "Gradients")
 - [Animations](https://www.w3schools.com/css/css3_animations.asp "Animations")
+
+##  Desafio dia 03 - Efeito lighting <a name="id03"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day03.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia03)
+
+##### O que aprendi:
+- [Text-Shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp "Text-Shadow")
+- [Filter: blur](https://www.w3schools.com/cssref/css3_pr_filter.asp "Filter:blur")
+- [:nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child "nth-child")
 
 
 Se curtiu a ideia, participe também!
