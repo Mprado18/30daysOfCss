@@ -20,6 +20,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 01 - Menu animado](#id01)
 * [Dia 02 - Escrita animada](#id02)
 * [Dia 03 - Efeito Lighting](#id03)
+* [Dia 04 - Cards animados](#id04)
 
 ## :trophy: Resultados
 
@@ -53,6 +54,16 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Text-Shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp "Text-Shadow")
 - [Filter: blur](https://www.w3schools.com/cssref/css3_pr_filter.asp "Filter:blur")
 - [:nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child "nth-child")
+
+##  Desafio dia 04 - Cards animados <a name="id04"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day04.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia04)
+
+##### O que aprendi:
+- [flex-wrap](https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp "Flex-Wrap")
+- [flex-direction property](https://www.w3schools.com/cssref/css3_pr_flex-direction.asp "Flex-Direction")
+- [Transitions: ease-in-out](https://www.w3schools.com/css/css3_transitions.asp "Transitions: ease-in-out")
 
 
 Se curtiu a ideia, participe também!
