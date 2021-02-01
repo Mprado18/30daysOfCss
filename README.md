@@ -17,16 +17,17 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 
 ## 🔖Índice
 
-* [Dia 01 - Menu animado](#id01)
-* [Dia 02 - Escrita animada](#id02)
-* [Dia 03 - Efeito Lighting](#id03)
-* [Dia 04 - Cards animados](#id04)
+* [Dia 01 - Animated Menu](#id01)
+* [Dia 02 - Animated Writing](#id02)
+* [Dia 03 - Lighting Effect](#id03)
+* [Dia 04 - Animated Cards](#id04)
 * [Dia 05 - Loading balls](#id05)
 * [Dia 06 - Button Neon Light](#id06)
+* [Dia 07 - Balance Loading](#id07)
 
 ## :trophy: Resultados
 
-##  Desafio dia 01 - Menu animado <a name="id01"></a>
+##  Desafio dia 01 - Animated Menu <a name="id01"></a>
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day01.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia01)
@@ -37,7 +38,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [::before](https://www.w3schools.com/cssref/sel_before.asp "::before")
 
 
-##  Desafio dia 02 - Escrita animada <a name="id02"></a>
+##  Desafio dia 02 - Animated Writing <a name="id02"></a>
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day02.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia02)
@@ -47,7 +48,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Gradients](https://www.w3schools.com/css/css3_gradients.asp "Gradients")
 - [Animations](https://www.w3schools.com/css/css3_animations.asp "Animations")
 
-##  Desafio dia 03 - Efeito lighting <a name="id03"></a>
+##  Desafio dia 03 - Lighting Effect <a name="id03"></a>
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day03.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia03)
@@ -57,7 +58,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Filter: blur](https://www.w3schools.com/cssref/css3_pr_filter.asp "Filter:blur")
 - [:nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child "nth-child")
 
-##  Desafio dia 04 - Cards animados <a name="id04"></a>
+##  Desafio dia 04 - Animated Cards <a name="id04"></a>
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day04.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia04)
@@ -84,5 +85,10 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 ##### O que aprendi:
 - [-webkit-box-reflect](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect "Box-reflect")
 - [filter: hue-rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/hue-rotate() "Filter")
+
+##  Desafio dia 07 - Balance Loading <a name="id06"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day07.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia07)
 
 Se curtiu a ideia, participe também!
