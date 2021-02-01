@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #101322;
+}
+
+.container{
+    position: relative;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0001);
+}
+
+.container .loader{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 20px solid transparent;
+    border-bottom: 20px solid #3699ad;
+    border-right: 20px solid #3699ad;
+    transform: rotate(45deg);
+    animation: animar 4s ease-in-out infinite;
+}
+
+@keyframes animar{
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(90deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+}
+
+.container .loader .ball{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    animation: animarBall 4s ease-in-out infinite;
+}
+
+@keyframes animarBall{
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+}
+
+.container .loader .ball::before{
+    content: '';
+    position: absolute;
+    bottom: 50%;
+    right: 15px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+    border-radius: 50%;
+    transform: translateY(-50%);
+}
