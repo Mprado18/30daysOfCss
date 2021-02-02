@@ -24,6 +24,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 05 - Loading balls](#id05)
 * [Dia 06 - Button Neon Light](#id06)
 * [Dia 07 - Balance Loading](#id07)
+* [Dia 08 - Page Scrolling Effect](#id08)
 
 ## :trophy: Resultados
 
@@ -91,4 +92,18 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia07)
 
+##  Desafio dia 08 - Page Scrolling Effect <a name="id08"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day08.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia08)
+
+##### O que aprendi:
+- [background-attachment](https://www.w3schools.com/cssref/pr_background-attachment.asp "background-attachment")
+- [background-blend-mode](https://www.w3schools.com/cssref/pr_background-blend-mode.asp "background-blend-mode")
+- [scroll-snap-type](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type "scroll-snap-type")
+- [scroll-snap-align](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-align "scroll-snap-align")
+
+
 Se curtiu a ideia, participe também!
+
+Créditos em muitos exemplos de projetos e tutoriais pelo: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "Online Tutorials")
