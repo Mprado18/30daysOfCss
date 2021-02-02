@@ -1,2 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', 'sans-serif';
+}
 
+.container{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    scroll-snap-type: y mandatory;
+    overflow: auto;
+}
+
+.container .section{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-blend-mode: lighten;
+    scroll-snap-align: start;
+}
+
+.container .section:nth-child(1){
+    background: rgba(133, 123, 123, 0.25) url(image/img1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container .section:nth-child(2){
+    background: rgba(133, 123, 123, 0.25) url(image/img2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container .section:nth-child(3){
+    background: rgba(133, 123, 123, 0.25) url(image/img3.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container .section:nth-child(4){
+    background: rgba(133, 123, 123, 0.25) url(image/img4.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container .section:nth-child(5){
+    background: rgba(133, 123, 123, 0.25) url(image/img5.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container .section .content{
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    max-width: 700px;
+}
+
+.container .section .content h2{
+    background: #111;
+    opacity: 0.75;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 2em;
+    backdrop-filter: 2px;
+}
+
+.container .section .content p{
+    background: #111;
+    opacity: 0.75;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
