@@ -26,6 +26,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 07 - Balance Loading](#id07)
 * [Dia 08 - Page Scrolling Effect](#id08)
 * [Dia 09 - Button Night Mode](#id09)
+* [Dia 10 - Flip Card 3D Animation](#id10)
 
 ## :trophy: Resultados
 
@@ -113,6 +114,15 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Seletores CSS](https://pt.stackoverflow.com/questions/194920/como-funcionam-os-seletores-no-css "Seletores")
 - [Appearance](https://developer.mozilla.org/en-US/docs/Web/CSS/appearance "appearance")
 
+##  Desafio dia 10 - Flip Card 3D Animation <a name="id10"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day10.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia10)
+
+##### O que aprendi:
+- [perspective Property](https://www.w3schools.com/cssref/css3_pr_perspective.asp "perspective")
+- [backface-visibility](https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp "backface")
+- [transform-style: preserve-3d](https://www.w3schools.com/cssref/css3_pr_transform-style.asp "preserve-3d")
 
 Se curtiu a ideia, participe também!
 
