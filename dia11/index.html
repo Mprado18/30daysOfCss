@@ -14,7 +14,18 @@
 
 <body>
     
+    <section>
+        <h2>Glassmorphism Effect</h2>
+        <div class="glass"></div>
+    </section>
 
+    <script>
+        document.addEventListener("mousemove", function(e){
+            const glass = document.querySelector('.glass');
+            glass.style.top = e.offsetY + 'px';
+            glass.style.left = e.offsetX + 'px';
+        })
+    </script>
 
 </body>
 
