@@ -27,6 +27,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 08 - Page Scrolling Effect](#id08)
 * [Dia 09 - Button Night Mode](#id09)
 * [Dia 10 - Flip Card 3D Animation](#id10)
+* [Dia 11 - Card Glassmorphism Effect](#id11)
 
 ## :trophy: Resultados
 
@@ -123,6 +124,15 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [perspective Property](https://www.w3schools.com/cssref/css3_pr_perspective.asp "perspective")
 - [backface-visibility](https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp "backface")
 - [transform-style: preserve-3d](https://www.w3schools.com/cssref/css3_pr_transform-style.asp "preserve-3d")
+
+##  Desafio dia 11 - Card Glassmorphism Effect <a name="id11"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day11.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia11)
+
+##### O que aprendi:
+- [Glassmorphism](https://medium.com/better-programming/a-short-guide-on-how-to-create-glassmorphic-elements-in-pure-css-4d52f81089ab "glassmorphism")
+- [backdrop-filter](https://css-tricks.com/almanac/properties/b/backdrop-filter/ "backdrop")
 
 Se curtiu a ideia, participe também!
 
