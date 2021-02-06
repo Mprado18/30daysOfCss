@@ -28,6 +28,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 09 - Button Night Mode](#id09)
 * [Dia 10 - Flip Card 3D Animation](#id10)
 * [Dia 11 - Card Glassmorphism Effect](#id11)
+* [Dia 12 - Glassmorphism Icons Effect](#id12)
 
 ## :trophy: Resultados
 
@@ -133,6 +134,16 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 ##### O que aprendi:
 - [Glassmorphism](https://medium.com/better-programming/a-short-guide-on-how-to-create-glassmorphic-elements-in-pure-css-4d52f81089ab "glassmorphism")
 - [backdrop-filter](https://css-tricks.com/almanac/properties/b/backdrop-filter/ "backdrop")
+
+##  Desafio dia 12 - Card Glassmorphism Effect <a name="id12"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day12.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia12)
+
+##### O que aprendi:
+- [Glassmorphism](https://dev.to/emmaccen/how-to-create-a-glassmorphic-template-in-pure-html-css-3jo4 "glassmorphism")
+- [2d transforms](https://www.w3schools.com/css/css3_2dtransforms.asp "2d transforms")
+- [Glassmorphism trend](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9 "ui trend")
 
 Se curtiu a ideia, participe também!
 
