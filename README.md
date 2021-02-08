@@ -30,6 +30,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 11 - Card Glassmorphism Effect](#id11)
 * [Dia 12 - Glassmorphism Icons Effect](#id12)
 * [Dia 13 - Pre-Loader Animation](#id13)
+* [Dia 14 - Typewriter Animation](#id14)
 
 ## :trophy: Resultados
 
@@ -150,6 +151,15 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day13.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia13)
+
+##  Desafio dia 14 - Typewiter Animation <a name="id14"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day14.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia14)
+
+##### O que aprendi:
+- [steps in animation](https://designmodo.com/steps-css-animations/ "steps")
+- [white-space](https://www.w3schools.com/cssref/pr_text_white-space.asp "white-space")
 
 Se curtiu a ideia, participe também!
 
