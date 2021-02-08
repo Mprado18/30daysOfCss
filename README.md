@@ -29,6 +29,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 10 - Flip Card 3D Animation](#id10)
 * [Dia 11 - Card Glassmorphism Effect](#id11)
 * [Dia 12 - Glassmorphism Icons Effect](#id12)
+* [Dia 13 - Pre-Loader Animation](#id13)
 
 ## :trophy: Resultados
 
@@ -144,6 +145,11 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Glassmorphism](https://dev.to/emmaccen/how-to-create-a-glassmorphic-template-in-pure-html-css-3jo4 "glassmorphism")
 - [2d transforms](https://www.w3schools.com/css/css3_2dtransforms.asp "2d transforms")
 - [Glassmorphism trend](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9 "ui trend")
+
+##  Desafio dia 13 - Pre-Loader Animation <a name="id13"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day13.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/dia13)
 
 Se curtiu a ideia, participe também!
 
