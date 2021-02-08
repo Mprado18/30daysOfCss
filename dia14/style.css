@@ -13,12 +13,12 @@ body{
     background: #121213;
 }
 
-.loader{
+.typewriter{
     position: relative;
     -webkit-box-reflect: below -20px linear-gradient(transparent, #0002);
 }
 
-.loader::before{
+.typewriter::before{
     content: '';
     position: absolute;
     top: 0;
@@ -39,7 +39,7 @@ body{
     }
 }
 
-.loader h2{
+.typewriter h2{
     position: relative;
     color: #03e9f4;
     letter-spacing: 2px;
