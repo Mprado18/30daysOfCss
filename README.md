@@ -32,6 +32,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 13 - Pre-Loader Animation](#id13)
 * [Dia 14 - Typewriter Animation](#id14)
 * [Dia 15 - Animated Hamburger Menu](#id15)
+* [Dia 16 - Animated Toggle Button ](#id16)
 
 ## :trophy: Resultados
 
@@ -169,6 +170,11 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 
 ##### O que aprendi:
 - [Transform](https://www.w3schools.com/cssref/css3_pr_transform.asp "Transform")
+
+##  Desafio dia 16 - Animated Toggle Button <a name="id16"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day16.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia16)
 
 Se curtiu a ideia, participe também!
 
