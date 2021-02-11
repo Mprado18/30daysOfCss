@@ -21,7 +21,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 02 - Animated Writing](#id02)
 * [Dia 03 - Lighting Effect](#id03)
 * [Dia 04 - Animated Cards](#id04)
-* [Dia 05 - Loading balls](#id05)
+* [Dia 05 - Loading Balls](#id05)
 * [Dia 06 - Button Neon Light](#id06)
 * [Dia 07 - Balance Loading](#id07)
 * [Dia 08 - Page Scrolling Effect](#id08)
@@ -32,7 +32,8 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 13 - Pre-Loader Animation](#id13)
 * [Dia 14 - Typewriter Animation](#id14)
 * [Dia 15 - Animated Hamburger Menu](#id15)
-* [Dia 16 - Animated Toggle Button ](#id16)
+* [Dia 16 - Animated Toggle Button](#id16)
+* [Dia 17 - Pre-Loader Animation](#id17)
 
 ## :trophy: Resultados
 
@@ -175,6 +176,11 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day16.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia16)
+
+##  Desafio dia 17 - Pre-Loader Animation <a name="id17"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day17.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia17)
 
 Se curtiu a ideia, participe também!
 
