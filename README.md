@@ -34,11 +34,12 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 15 - Animated Hamburger Menu](#id15)
 * [Dia 16 - Animated Toggle Button](#id16)
 * [Dia 17 - Pre-Loader Animation](#id17)
+* [Dia 18 - Parallax Card Effect](#id18)
 
 ## :trophy: Resultados
 
 ##  Desafio dia 01 - Animated Menu <a name="id01"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day01.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day01.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia01)
 
@@ -49,7 +50,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 
 
 ##  Desafio dia 02 - Animated Writing <a name="id02"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day02.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day02.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia02)
 
@@ -59,7 +60,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Animations](https://www.w3schools.com/css/css3_animations.asp "Animations")
 
 ##  Desafio dia 03 - Lighting Effect <a name="id03"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day03.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day03.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia03)
 
@@ -69,7 +70,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [:nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child "nth-child")
 
 ##  Desafio dia 04 - Animated Cards <a name="id04"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day04.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day04.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia04)
 
@@ -79,7 +80,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Transitions: ease-in-out](https://www.w3schools.com/css/css3_transitions.asp "Transitions: ease-in-out")
 
 ##  Desafio dia 05 - Loading balls <a name="id05"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day05.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day05.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia05)
 
@@ -88,7 +89,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Melhor entendimento de propriedades Transform](https://www.w3schools.com/cssref/css3_pr_transform.asp "Transform")
 
 ##  Desafio dia 06 - Button Neon Light <a name="id06"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day06.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day06.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia06)
 
@@ -97,12 +98,12 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [filter: hue-rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/hue-rotate() "Filter")
 
 ##  Desafio dia 07 - Balance Loading <a name="id07"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day07.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day07.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia07)
 
 ##  Desafio dia 08 - Page Scrolling Effect <a name="id08"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day08.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day08.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia08)
 
@@ -113,7 +114,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [scroll-snap-align](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-align "scroll-snap-align")
 
 ##  Desafio dia 09 - Button Night Mode <a name="id09"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day09.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day09.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia09)
 
@@ -122,7 +123,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Appearance](https://developer.mozilla.org/en-US/docs/Web/CSS/appearance "appearance")
 
 ##  Desafio dia 10 - Flip Card 3D Animation <a name="id10"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day10.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day10.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia10)
 
@@ -132,7 +133,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [transform-style: preserve-3d](https://www.w3schools.com/cssref/css3_pr_transform-style.asp "preserve-3d")
 
 ##  Desafio dia 11 - Card Glassmorphism Effect <a name="id11"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day11.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day11.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia11)
 
@@ -141,7 +142,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [backdrop-filter](https://css-tricks.com/almanac/properties/b/backdrop-filter/ "backdrop")
 
 ##  Desafio dia 12 - Card Glassmorphism Effect <a name="id12"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day12.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day12.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia12)
 
@@ -151,12 +152,12 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Glassmorphism trend](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9 "ui trend")
 
 ##  Desafio dia 13 - Pre-Loader Animation <a name="id13"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day13.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day13.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia13)
 
 ##  Desafio dia 14 - Typewiter Animation <a name="id14"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day14.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day14.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia14)
 
@@ -165,7 +166,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [white-space](https://www.w3schools.com/cssref/pr_text_white-space.asp "white-space")
 
 ##  Desafio dia 15 - Animated Hamburger Menu <a name="id15"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day15.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day15.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia15)
 
@@ -173,14 +174,25 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Transform](https://www.w3schools.com/cssref/css3_pr_transform.asp "Transform")
 
 ##  Desafio dia 16 - Animated Toggle Button <a name="id16"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day16.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day16.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia16)
 
 ##  Desafio dia 17 - Pre-Loader Animation <a name="id17"></a>
-<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day17.gif" width="800" height="400">
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day17.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia17)
+
+##  Desafio dia 18 - Parallax Card Effect <a name="id18"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day18.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia18)
+
+##### O que aprendi:
+- [Efeito Parallax](https://medium.com/@laisamaralz/efeito-parallax-com-css-b729f433b0fa "parallax")
+- [Efeito Parallax](https://uxdesign.blog.br/a-imersão-do-efeito-parallax-5f876ab9077f "parallax2")
+- [flex-wrap](https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp "flex-wrap")
+- [justify-content](https://www.w3schools.com/cssref/css3_pr_justify-content.asp "justify-content")
 
 Se curtiu a ideia, participe também!
 
