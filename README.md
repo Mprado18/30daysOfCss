@@ -35,6 +35,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 16 - Animated Toggle Button](#id16)
 * [Dia 17 - Pre-Loader Animation](#id17)
 * [Dia 18 - Parallax Card Effect](#id18)
+* [Dia 19 - Animated Text Hover](#id19)
 
 ## :trophy: Resultados
 
@@ -193,6 +194,19 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Efeito Parallax](https://uxdesign.blog.br/a-imersão-do-efeito-parallax-5f876ab9077f "parallax2")
 - [flex-wrap](https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp "flex-wrap")
 - [justify-content](https://www.w3schools.com/cssref/css3_pr_justify-content.asp "justify-content")
+
+##  Desafio dia 19 - Animated Text Hover <a name="id19"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day19.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia19)
+
+##### O que aprendi:
+- [Clamp](https://desenvolvimentoparaweb.com/css/textos-responsivos-com-css-clamp/ "clamp")
+- [Clamp documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp() "clamp2")
+- [Mais sobre Clamp](https://web.dev/min-max-clamp/ "clamp3")
+- [Exemplos Clamp](https://pt.stackoverflow.com/questions/455518/o-que-é-e-como-funciona-a-função-clamp-no-css "clamp4")
+- [Variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties "var-css")
+- [Mais sobre variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/var() "var-css2")
 
 Se curtiu a ideia, participe também!
 
