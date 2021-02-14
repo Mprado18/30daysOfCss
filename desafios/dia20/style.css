@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Ranchers&family=Sigmar+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sigmar One', 'Helvetica';
+    text-transform: uppercase;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(167, 157, 157);
+}
+
+.descricao{
+    position: relative;
+}
+
+.descricao h2{
+    position: absolute;
+    color: white;
+    transform: translate(-50%,-50%);
+    font-size: clamp(4em, 10vw, 13em);
+    letter-spacing: 5px;
+}
+
+.descricao h2:nth-child(1){
+    color: transparent;
+    -webkit-text-stroke: 2px #4b3621;
+}
+
+.descricao h2:nth-child(2){
+    color: #4b3621;
+    animation: animate 4s ease-in-out infinite;
+}
+
+@keyframes animate{
+    0%, 100%{
+        clip-path: polygon(0% 45%, 16% 48%, 34% 56%, 50% 62%, 68% 59%, 87% 51%, 100% 43%, 100% 100%, 0 100%);
+    }
+
+    50%{
+        clip-path: polygon(0 60%, 18% 59%, 31% 68%, 48% 63%, 64% 49%, 84% 48%, 100% 59%, 100% 100%, 0 100%);
+    }
+}
