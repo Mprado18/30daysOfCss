@@ -37,6 +37,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 18 - Parallax Card Effect](#id18)
 * [Dia 19 - Animated Text Hover](#id19)
 * [Dia 20 - Animated Text](#id20)
+* [Dia 21 - Animated Menu Hover 3D](#id21)
 
 ## :trophy: Resultados
 
@@ -218,6 +219,11 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke "text-stroke")
 - [clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path "clip-path")
 - [Clippe Maker](https://bennettfeely.com/clippy/ "clippy-maker")
+
+##  Desafio dia 21 - Animated Menu Hover 3D <a name="id21"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day21.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia21)
 
 Se curtiu a ideia, participe também!
 
