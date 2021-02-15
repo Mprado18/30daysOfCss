@@ -36,6 +36,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 17 - Pre-Loader Animation](#id17)
 * [Dia 18 - Parallax Card Effect](#id18)
 * [Dia 19 - Animated Text Hover](#id19)
+* [Dia 20 - Animated Text](#id20)
 
 ## :trophy: Resultados
 
@@ -207,6 +208,16 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 - [Exemplos Clamp](https://pt.stackoverflow.com/questions/455518/o-que-é-e-como-funciona-a-função-clamp-no-css "clamp4")
 - [Variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties "var-css")
 - [Mais sobre variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/var() "var-css2")
+
+##  Desafio dia 20 - Animated Text <a name="id20"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day20.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia20)
+
+##### O que aprendi:
+- [text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke "text-stroke")
+- [clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path "clip-path")
+- [Clippe Maker](https://bennettfeely.com/clippy/ "clippy-maker")
 
 Se curtiu a ideia, participe também!
 
