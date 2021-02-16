@@ -38,6 +38,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 19 - Animated Text Hover](#id19)
 * [Dia 20 - Animated Text](#id20)
 * [Dia 21 - Animated Menu Hover 3D](#id21)
+* [Dia 22 - Particles Animation](#id22)
 
 ## :trophy: Resultados
 
@@ -224,6 +225,20 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day21.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia21)
+
+##### O que aprendi:
+- [text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke "text-stroke")
+- [clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path "clip-path")
+- [Clippe Maker](https://bennettfeely.com/clippy/ "clippy-maker")
+
+##  Desafio dia 22 - Particles Animation <a name="id22"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day22.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia22)
+
+##### O que aprendi:
+- [transform-origin](https://www.w3schools.com/cssref/css3_pr_transform-origin.asp "transform")
+- [nth:child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child "nth-child")
 
 Se curtiu a ideia, participe também!
 
