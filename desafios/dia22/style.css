@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(22, 21, 21);
+    overflow: hidden;
+}
+
+.particles{
+    position: relative;
+    min-width: 750px;
+    height: 750px;
+    margin: -120px;
+    transform-origin: top;
+    animation: colorChange 5s linear infinite;
+}
+
+.particles:nth-child(even){
+    transform-origin: left;
+}
+
+@keyframes colorChange{
+    0%{
+        filter: hue-rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        filter: hue-rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.particles span{
+    position: absolute;
+    top: calc(80px * var(--i));
+    left: calc(80px * var(--i));
+    bottom: calc(80px * var(--i));
+    right: calc(80px * var(--i));
+}
+
+.particles span::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -8px;
+    width: 15px;
+    height: 15px;
+    background-color: rgb(15, 28, 209);
+    border-radius: 50%;
+}
+
+.particles span:nth-child(3n + 1)::before{
+    background-color: rgb(177, 45, 155);
+    box-shadow: 0 0 20px rgba(177, 45, 155),
+                0 0 40px rgba(177, 45, 155),
+                0 0 45px rgba(177, 45, 155),
+                0 0 0 4px rgba(134,255,0,0.1);
+}
+
+.particles span:nth-child(3n + 2)::before{
+    background-color: rgb(235, 160, 49);
+    box-shadow: 0 0 20px rgba(235, 160, 49),
+                0 0 40px rgba(235, 160, 49),
+                0 0 45px rgba(235, 160, 49),
+                0 0 0 4px rgba(255,214,0,0.1);
+}
+
+.particles span:nth-child(3n + 3)::before{
+    background-color: rgb(62, 231, 138);
+    box-shadow: 0 0 20px rgba(62, 231, 138),
+                0 0 40px rgba(62, 231, 138),
+                0 0 45px rgba(62, 231, 138),
+                0 0 0 4px rgba(0,226,255,0.1);
+}
+
+.particles span:nth-child(3n + 1){
+    animation: animate 10s alternate infinite;
+}
+
+.particles span:nth-child(3n + 2){
+    animation: animate-reverse 5s alternate infinite;
+}
+
+.particles span:nth-child(3n + 3){
+    animation: animate 12s alternate infinite;
+}
+
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(260deg);
+    }
+}
+
+@keyframes animate-reverse{
+    0%{
+        transform: rotate(360deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+}
