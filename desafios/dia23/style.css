@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #041e2b;
+}
+
+/*tela do objeto*/
+.loader .screen{
+    position: absolute;
+    z-index: 10;
+    margin-top: -50px;
+    margin-left: -80px;
+    width: 160px;
+    height: 100px;
+    background-color: #000000;
+    border-radius: 5px;
+    transform-style: preserve-3d;
+    animation: screen1 3s cubic-bezier(0.55,0.3,0.24,0.99) infinite;
+}
+
+/*contorno da tela do objeto*/
+.loader .screen:nth-child(2){
+    z-index: 11;
+    width: 150px;
+    height: 90px;
+    margin-top: -45px;
+    margin-left: -75px;
+    background: linear-gradient(45deg,rgb(73, 73, 73),rgb(214, 210, 210), rgb(73, 73, 73));
+    border-radius: 3px;
+    animation: screen2 3s cubic-bezier(0.55,0.3,0.24,0.99) infinite;
+}
+
+/*suporte ou botão*/
+.loader .screen:nth-child(3){
+    z-index: 12;
+    width: 40px;
+    height: 20px;
+    margin-top: 50px;
+    margin-left: -20px;
+    background-color: #cecece;
+    border-radius: 0 0 5px 5px;
+    animation: screen3 3s cubic-bezier(0.55,0.3,0.24,0.99) infinite;
+}
+
+/*anima o contorno do objeto*/
+@keyframes screen1{
+    /*desktop*/
+    3%, 97%{
+        width: 160px;
+        height: 100px;
+        margin-top: -50px;
+        margin-left: -80px;
+    }
+    /*tablet*/
+    30%, 36%{
+        width: 80px;
+        height: 120px;
+        margin-top: -60px;
+        margin-left: -40px;
+    }
+    /*mobile*/
+    63%, 69%{
+        width: 40px;
+        height: 80px;
+        margin-top: -40px;
+        margin-left: -20px;
+    }
+}
+
+/*anima tela do objeto*/
+@keyframes screen2{
+    3%, 97%{
+        width: 150px;
+        height: 90px;
+        margin-top: -45px;
+        margin-left: -75px;
+    }
+    30%, 36%{
+        width: 70px;
+        height: 96px;
+        margin-top: -48px;
+        margin-left: -35px;
+    }
+    63%, 69%{
+        width: 32px;
+        height: 60px;
+        margin-top: -30px;
+        margin-left: -16px;
+    }
+}
+
+/*anima suporte e botão*/
+@keyframes screen3{
+    3%, 97%{
+        width: 40px;
+        height: 20px;
+        margin-top: 50px;
+        margin-left: -20px;
+    }
+    30%, 36%{
+        width: 8px;
+        height: 8px;
+        margin-top: 49px;
+        margin-left: -5px;
+        border-radius: 8px;
+    }
+    63%, 69%{
+        width: 16px;
+        height: 4px;
+        margin-top: -37px;
+        margin-left: -8px;
+        border-radius: 10px;
+    }
+}
