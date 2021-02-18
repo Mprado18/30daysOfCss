@@ -40,6 +40,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 21 - Animated Menu Hover 3D](#id21)
 * [Dia 22 - Particles Animation](#id22)
 * [Dia 23 - Loading Screen Animation](#id23)
+* [Dia 24 - Animated Checkbox](#id24)
 
 ## :trophy: Resultados
 
@@ -248,6 +249,14 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 
 ##### O que aprendi:
 - [cubic-bezier](https://www.w3schools.com/cssref/func_cubic-bezier.asp "cubic")
+
+##  Desafio dia 24 - Animated Checkbox <a name="id24"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day24.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia24)
+
+##### O que aprendi:
+- [Aprofundando em Font Awesome](https://fontawesome.com/v4.7.0/icons/ "font")
 
 Se curtiu a ideia, participe também!
 
