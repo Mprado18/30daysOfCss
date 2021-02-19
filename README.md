@@ -41,6 +41,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 22 - Particles Animation](#id22)
 * [Dia 23 - Loading Screen Animation](#id23)
 * [Dia 24 - Animated Checkbox](#id24)
+* [Dia 25 - Square Loading Animation](#id25)
 
 ## :trophy: Resultados
 
@@ -257,6 +258,12 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 
 ##### O que aprendi:
 - [Aprofundando em Font Awesome](https://fontawesome.com/v4.7.0/icons/ "font")
+
+##  Desafio dia 25 - Square Loading Animation <a name="id25"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day25.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia25)
+
 
 Se curtiu a ideia, participe também!
 
