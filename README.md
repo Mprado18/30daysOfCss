@@ -43,6 +43,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 24 - Animated Checkbox](#id24)
 * [Dia 25 - Square Loading Animation](#id25)
 * [Dia 26 - Coffee Animation](#id26)
+* [Dia 27 - Loading Circles Animation](#id27)
 
 ## :trophy: Resultados
 
@@ -269,6 +270,11 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day26.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia26)
+
+##  Desafio dia 27 - Loading Circles Animation <a name="id27"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day27.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia27)
 
 
 Se curtiu a ideia, participe também!
