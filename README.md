@@ -45,6 +45,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 26 - Coffee Animation](#id26)
 * [Dia 27 - Loading Circles Animation](#id27)
 * [Dia 28 - Loading Animation](#id28)
+* [Dia 29 - Responsive Glassmorphism Card Hover Effects](#id29)
 
 ## :trophy: Resultados
 
@@ -281,6 +282,14 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 <img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day28.gif" width="600" height="350">
 
 [Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia28)
+
+##  Desafio dia 29 - Responsive Glassmorphism Card Hover Effects <a name="id29"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day29.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia29)
+
+##### O que aprendi:
+- [object-fit](https://www.w3schools.com/css/css3_object-fit.asp "object-fit")
 
 Se curtiu a ideia, participe também!
 
