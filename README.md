@@ -46,6 +46,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 * [Dia 27 - Loading Circles Animation](#id27)
 * [Dia 28 - Loading Animation](#id28)
 * [Dia 29 - Responsive Glassmorphism Card Hover Effects](#id29)
+* [Dia 30 - 3D Cubes Animation](#id30)
 
 ## :trophy: Resultados
 
@@ -291,6 +292,19 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 ##### O que aprendi:
 - [object-fit](https://www.w3schools.com/css/css3_object-fit.asp "object-fit")
 
+##  Desafio dia 30 - 3D Cubes Animation <a name="id30"></a>
+<img src="https://github.com/Mprado18/30daysOfCss/blob/main/img/day30.gif" width="600" height="350">
+
+[Meu codigo](https://github.com/Mprado18/30daysOfCss/tree/main/desafios/dia30)
+
+##### O que aprendi:
+- [nth-of-type](https://www.w3schools.com/cssref/sel_nth-of-type.asp "nth-of-type")
+- [cubic-bezier](https://www.w3schools.com/cssref/func_cubic-bezier.asp "cubic-bezier")
+- [3D transforms](https://www.w3schools.com/css/css3_3dtransforms.asp "3D transforms")
+
 Se curtiu a ideia, participe também!
 
-Créditos em muitos exemplos de projetos e tutoriais pelo: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "Online Tutorials")
+Dou os devidos créditos em muitos exemplos de projetos e tutoriais pelo: 
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "Online Tutorials")
+[Free FrontEnd](https://freefrontend.com/css-animation-examples/ "Free FrontEnd")
+Demais Youtubers que contribuem com dicas de CSS e tutoriais!
