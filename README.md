@@ -305,6 +305,7 @@ Este desafio foi inspirado por diversos desenvolvedores em minha rede de contato
 Se curtiu a ideia, participe também!
 
 Dou os devidos créditos em muitos exemplos de projetos e tutoriais pelo: 
-[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "Online Tutorials")
-[Free FrontEnd](https://freefrontend.com/css-animation-examples/ "Free FrontEnd")
+- [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "Online Tutorials")
+- [Free FrontEnd](https://freefrontend.com/css-animation-examples/ "Free FrontEnd")
+
 Demais Youtubers que contribuem com dicas de CSS e tutoriais!
